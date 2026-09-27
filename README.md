@@ -19,3 +19,7 @@ track changes, create branches, and collaborate using pull requests.
 6. Create a pull request
 7. Merge the changes
 8. View commit history
+## New Feature
+
+A separate feature branch is used to develop and test changes
+before merging them into the main branch.
